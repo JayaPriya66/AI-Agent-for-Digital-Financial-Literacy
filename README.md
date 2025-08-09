@@ -60,6 +60,7 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 ![image alt](https://github.com/JayaPriya66/AI-Agent-for-Digital-Financial-Literacy/blob/bdca5abe51dbb47a04c63dfda7988b1d4b26574d/Screenshot.png)
 🔹 Questions and outputs...
 ![image alt](https://github.com/JayaPriya66/AI-Agent-for-Digital-Financial-Literacy/blob/879c6959732850431ddca17a90a0b4147528ba1c/Screenshot%20.png)
+![image alt](https://github.com/JayaPriya66/AI-Agent-for-Digital-Financial-Literacy/blob/ea2b9f67cc31c5a5c67a995c5300e82c005da277/screen%20shot.png)
 🔹 Resources List...
 ![image alt](https://github.com/JayaPriya66/AI-Agent-for-Digital-Financial-Literacy/blob/035394867a8f9bfcbec7100bb3fc753785f489fa/Resource%20list.png)
 
