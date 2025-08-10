@@ -101,4 +101,4 @@ This project is licensed under the MIT License.
 # 🔗 Connect with me on LinkedIn
 
 
-Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by Jaya Priya
+Created with 💙 by Jaya Priya
