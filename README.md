@@ -61,7 +61,7 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 🔹 Questions and outputs...
 ![image alt]
 🔹 Resources List...
-![image alt]
+![image alt](https://github.com/JayaPriya66/AI-Agent-for-Digital-Financial-Literacy/blob/035394867a8f9bfcbec7100bb3fc753785f489fa/Resource%20list.png)
 
 # 📌 How to Run or Deploy
 * Log in to IBM Cloud Lite: https://cloud.ibm.com
